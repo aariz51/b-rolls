@@ -1,0 +1,4 @@
+interface:
+  display_name: "B-Rolls"
+  short_description: "Add rapid speech-matched B-roll to raw video"
+  default_prompt: "Use $b-rolls to add rapid topic-matched B-roll to my raw video while preserving its captions and voiceover."
